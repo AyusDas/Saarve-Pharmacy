@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+    width : 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background : rgba(208, 208, 208, 0.454);
+}
+
+.nice-font {
+    font-family: 'Courier Prime', monospace;
+}
+
+.list-font {
+    font-family: 'Comfortaa', cursive;
+}
